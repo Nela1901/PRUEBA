@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09dc036d-fb50-46da-ab37-5972b7193b22" name="Changes" comment="" />
+    <list default="true" id="09dc036d-fb50-46da-ab37-5972b7193b22" name="Changes" comment="COMMIT" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +10,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Nela1901/PRUEBA.git",
+    "accountId": "fec0dbf6-494b-44bc-b01c-d5ade0297f85"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 8
@@ -66,17 +72,19 @@
       <option name="presentableId" value="Default" />
       <updated>1743313697198</updated>
     </task>
+    <task id="LOCAL-00001" summary="COMMIT">
+      <option name="closed" value="true" />
+      <created>1743314017967</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743314017967</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="COMMIT" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMMIT" />
   </component>
 </project>
