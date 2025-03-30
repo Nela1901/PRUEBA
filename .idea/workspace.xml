@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="09dc036d-fb50-46da-ab37-5972b7193b22" name="Changes" comment="COMMIT" />
+    <list default="true" id="09dc036d-fb50-46da-ab37-5972b7193b22" name="Changes" comment="segundo cambio">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +15,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Nela1901"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Nela1901/PRUEBA.git",
@@ -29,7 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "codigo1"
   }
 }]]></component>
   <component name="RunManager">
@@ -80,11 +91,29 @@
       <option name="project" value="LOCAL" />
       <updated>1743314017967</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="primer cambio">
+      <option name="closed" value="true" />
+      <created>1743314258740</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743314258740</updated>
+    </task>
+    <task id="LOCAL-00003" summary="segundo cambio">
+      <option name="closed" value="true" />
+      <created>1743314566035</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743314566035</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="COMMIT" />
-    <option name="LAST_COMMIT_MESSAGE" value="COMMIT" />
+    <MESSAGE value="primer cambio" />
+    <MESSAGE value="segundo cambio" />
+    <option name="LAST_COMMIT_MESSAGE" value="segundo cambio" />
   </component>
 </project>
